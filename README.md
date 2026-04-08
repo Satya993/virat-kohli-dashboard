@@ -39,7 +39,6 @@ To analyze and present Virat Kohli’s career statistics in a visual and interac
 
 ![Dashboard Preview](https://github.com/Satya993/virat-kohli-dashboard/blob/main/virat%20kohli%20stats%20dashboard.png)
 
-🔗 **View Full Image:**  
-https://github.com/Satya993/virat-kohli-dashboard/blob/main/virat%20kohli%20stats%20dashboard.png
+
 
 ---
